@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PoolstatReportUsageStats", "PoolstatReportUsageStats\PoolstatReportUsageStats.dtproj", "{FCC3BB9E-A8B5-4176-9C86-74B21FD520D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC3BB9E-A8B5-4176-9C86-74B21FD520D9}.Development|Default.ActiveCfg = Development
+		{FCC3BB9E-A8B5-4176-9C86-74B21FD520D9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8E5ED0-F057-4DE2-A1F1-971F6F590EA5}
+	EndGlobalSection
+EndGlobal
